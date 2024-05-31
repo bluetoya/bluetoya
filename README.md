@@ -10,11 +10,12 @@ Hi, I am @bluetoya, a backend engineer in Seoul, Korea
 - Java
 - Spring Boot
 - MySQL
+- JPA
 - GitLab
 - Redis
 - Kafka
-- React
-- JS
+- React JS
+- JS6
 
 ### 🌱 공부하고 싶은 기술
 - [ ] Docker
