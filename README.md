@@ -21,6 +21,8 @@ Hi, I am @bluetoya, a backend engineer in Seoul, Korea
 - [ ] Docker
 - [ ] Python / Ruby
 - [ ] Kotlin
+- [ ] MongoDB
+- [ ] RabbitMQ
   ...
 
 <br>
