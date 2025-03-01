@@ -1,5 +1,5 @@
 ## 👋 About Me
-안녕하세요, 대한민국 서울에서 백엔드 개발자로 있습니다.
+안녕하세요,
 
 Hi, I am @bluetoya, a backend engineer in Seoul, Korea
 
@@ -7,7 +7,7 @@ Hi, I am @bluetoya, a backend engineer in Seoul, Korea
 
 ## 💻 Skills & Langauges
 ### 🔨 사용 가능한 기술
-- Java
+- Java 8~
 - Spring Boot
 - MySQL
 - JPA
@@ -15,13 +15,11 @@ Hi, I am @bluetoya, a backend engineer in Seoul, Korea
 - Redis
 - Kafka
 - React JS
-- JS6
 
 ### 🌱 공부하고 싶은 기술
 - [ ] Docker
-- [ ] Python / Ruby
 - [ ] Kotlin
-- [ ] MongoDB
+- [-] MongoDB - in progress
 - [ ] RabbitMQ
   ...
 
